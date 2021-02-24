@@ -1,0 +1,100 @@
+Tokyo-Yokohama
+Delhi, DL-UP-HR
+Shanghai, SHG-JS-ZJ
+San Paulo
+Mumbai, MH
+Mexico City
+Beijing, BJ
+Osaka-Kobe-Kyoto
+Cairo
+New York
+Dhaka
+Karachi
+Buenos Aires
+Kolkata, WB
+Istanbul
+Chongquin
+Lagos
+Manila
+Rio de Janeiro
+Guangzhou-Foshan, GD
+Los Angelles, CA
+Moscow
+Kinshasa
+Tianjin, TJ
+Paris
+Shenzhen, GD
+Jakarta
+London
+Bangalore, KA
+Lima
+Chennai
+Seoul-Incheon
+Bogota
+Nagoya
+Johannesburg
+Bangkok
+Hyderabad, AP
+Chicago
+Lahore
+Tehran
+Wuhan, HUB
+Chengdu, SC
+Dongguan
+Nanjing, JS
+Ahmadabad
+Hong Kong
+Ho Chi Minh City
+Foshan
+Kuala Lumpu
+Baghdad
+Santiago
+Hangzhou, ZJ
+Riyadh
+Shenyang, LN
+Madrid
+Xian, SAA
+Toronto, ON
+Miami
+Pune, MH
+Belo Horizonte
+Dallas-Fort Worth, TX
+Surat
+Houston
+Singapore
+Philadelphia, PA-NJ-DE-MD
+Kitakyushu
+Luanda
+Suzhou, JS
+Harbin, HL
+Barcelona
+Atlanta
+Khartoum
+Dar es Salaam
+St. Petersburg
+Washington, D.C.
+Abidjan
+Guadalajara
+Yangon
+Alexandria
+Ankara
+Kabul
+Quingdao
+Chittagong
+Monterrey
+Sydney, NSW
+Dalian, LN
+Xiamen
+Zhengzhou, HEM
+Boston
+Melbourme 
+Brazilia 
+Jeddah 
+Phoenix 
+Ji'nan
+Montréal
+Shantou
+Nairobi
+Medellin
+Fortaleza
+Kunming
